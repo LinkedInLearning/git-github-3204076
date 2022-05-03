@@ -24,7 +24,7 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 **Amanda Cavallaro**
 
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/acavallaro).
+Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/amanda-cavallaro).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
