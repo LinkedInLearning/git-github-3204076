@@ -1,11 +1,11 @@
-# Título final do curso 
-Este é o repositório do curso de LinkedIn Learning `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
+# Git e GitHub: Formação Básica 
+Este é o repositório do curso de LinkedIn Learning `[Git e GitHub: Formação Básica]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
 ![Título completo do curso][lil-thumbnail-url] 
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
-DESCRIÇÃO DO CURSO 
+O controle de versão é uma habilidade essencial a ser dominada pela pessoas desenvolvedoras. O Git é de longe o sistema de controle de versão mais popular na web. Neste curso, a autora Amanda Cavallaro mostra como instalar o Git e usar os comandos fundamentais que você precisa para trabalhar com projetos Git: mover arquivos, gerenciar logs e trabalhar com branches (ramificações). Além disso, você aprenderá a trabalhar com o GitHub para explorar projetos existentes, clona-los em seu disco rígido local e utiliza-los como modelos para seus novos projetos.
 
 ## Instruções 
 Este repositório contém ramificações, ou branches, para cada um dos vídeos do curso. Caso você deseje alternar para uma ramificação específica e continuar o curso a partir daí, use o menu pop-up da ramificação no GitHub ou adicione `/tree/nome_da_ramificação` ao URL para acessar diretamente a ramificação desejada. 
@@ -22,9 +22,9 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 ### Instrutor(a)
 
-**Nome do(a) instrutor(a)**
+**Amanda Cavallaro**
 
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/acavallaro).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
