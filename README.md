@@ -19,7 +19,6 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 	- Linha de comandos
 	
 2. Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso. 
-3. [Instruções específicas do curso].
 
 ### Instrutor(a)
 
