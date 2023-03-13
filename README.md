@@ -1,5 +1,5 @@
 # Git e GitHub: Formação Básica 
-Este é o repositório do curso de LinkedIn Learning `[Git e GitHub: Formação Básica]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
+Este é o repositório do curso de LinkedIn Learning `Git e GitHub: Formação Básica`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
 ![Título completo do curso][lil-thumbnail-url] 
 
@@ -28,8 +28,5 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/amanda-cavallaro).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-
-[1]: # (End of BP-Instruction ###############################################################################################)
+[lil-course-url]: https://www.linkedin.com/learning/git-e-github-formacao-basica
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3204076/3204076-1651660864233-16x9.jpg
